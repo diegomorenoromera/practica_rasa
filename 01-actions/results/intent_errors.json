@@ -1,0 +1,18 @@
+[
+  {
+    "text": "buenas noches",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.3819293677806854
+    }
+  },
+  {
+    "text": "buenas tardes",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.445069283246994
+    }
+  }
+]
